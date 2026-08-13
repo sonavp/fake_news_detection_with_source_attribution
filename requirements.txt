@@ -1,0 +1,11 @@
+transformers
+sentence-transformers
+torch
+duckduckgo-search
+beautifulsoup4
+requests
+numpy
+pandas
+scikit-learn
+nltk
+spacy
